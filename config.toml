@@ -2,3 +2,6 @@ baseURL = "https://namimano.netlify.app/"
 languageCode = "ja"
 title = "ナミマノ"
 theme = "dimension"
+
+[params]
+    customCSS = ["assets/css/custom.css"]
