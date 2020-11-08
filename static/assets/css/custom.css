@@ -1,3 +1,7 @@
+#header .content p {
+	text-transform: none;
+}
+
 #footer .copyright {
 	text-transform: none;
 }
