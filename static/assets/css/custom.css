@@ -5,3 +5,7 @@
 #footer .copyright {
 	text-transform: none;
 }
+
+body.is-preload #bg:before {
+	background-color: #2E3A51;
+}
