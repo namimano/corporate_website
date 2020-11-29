@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-### The Scientific Proprietary Trading Firm
+### *The Scientific Proprietary Trading Firm*
 
 ---
 
