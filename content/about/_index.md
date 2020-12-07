@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-### *THE SCIENTIFIC PROPRIETARY TRADING FIRM*
+### *THE FINANCIAL ENGINEERING LAB*
 
 ---
 
