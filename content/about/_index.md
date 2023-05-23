@@ -2,15 +2,11 @@
 title: "About"
 ---
 
-### *THE FINANCIAL ENGINEERING LAB*
+### THE INFORMATION ENGINEERING LAB
 
 ---
 
-## Philosophy
-
-- 機会に耳を澄まし、大胆に踊り続ける。
-- 全ては「ひとつながり」であることを忘れない。
-- そして、しなやかに、自由を超えて行く。
+見過ごされてしまいがちな事象に、機会や価値を見出します。
 
 ---
 
@@ -20,7 +16,7 @@ title: "About"
 | --- | --- |
 | 会社名 | ナミマノ合同会社 |
 | 設立 | 2020年11月2日 |
-| 事業内容 | 資産運用、金融教育 |
+| 事業内容 | 暗号資産運用、トレード情報発信 |
 | 代表 | 長野 拓真 |
 | 所在地 | 神奈川県横浜市 |
-| 連絡先 | info@namimano.com |
+| 連絡先 | namimano.llc@gmail.com |
